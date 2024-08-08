@@ -4,16 +4,78 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59d7d877-a976-4b66-a638-2d7baf199eab" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/project/simple_app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/simple_app/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/simple_app/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/simple_app/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/simple_app/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/simple_app/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/simple_app/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/simple_app/views.py" afterDir="false" />
+    <list default="true" id="59d7d877-a976-4b66-a638-2d7baf199eab" name="Changes" comment="doesn't work 127.0.0.1">
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filter-24.2.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filter-24.2.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filter-24.2.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filter-24.2.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filter-24.2.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filter-24.2.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/conf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/filterset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/ar/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/ar/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/be/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/be/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/bg/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/bg/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/cs/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/cs/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/da/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/da/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/de/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/de/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/el/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/el/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/es/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/es/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/es_AR/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/es_AR/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/fa/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/fa/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/fi/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/fr/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/fr/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/it/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/it/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/nl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/nl/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/pl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/pl/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/pt_BR/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/pt_BR/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/ro/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/ru/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/ru/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/sk/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/sk/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/uk/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/uk/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/zh_CN/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/locale/zh_CN/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/rest_framework/backends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/rest_framework/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/rest_framework/filterset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/templates/django_filters/rest_framework/crispy_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/templates/django_filters/rest_framework/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/templates/django_filters/widgets/multiwidget.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_filters/widgets.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/simple_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/simple_app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/simple_app/templates/flatpages/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/simple_app/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/simple_app/templates/flatpages/contact_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/simple_app/templates/contact_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/simple_app/templates/flatpages/inc.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/simple_app/templates/inc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/simple_app/templates/flatpages/product_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/simple_app/templates/product_edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/simple_app/templates/flatpages/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/simple_app/templates/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/simple_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/simple_app/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +91,21 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/project" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;electricianv&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/electricianv/pythonProject_simpleapp.git&quot;,
+    &quot;accountId&quot;: &quot;0cc085d0-f662-4fdb-ab9f-42c89b5e7c7d&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
@@ -51,12 +125,25 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/elect/PycharmProjects/django/pythonProject_simpleapp/project/static&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/elect/PycharmProjects/django/копия последнего проекта&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.gitlab.GitLabSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\elect\PycharmProjects\django\pythonProject_simpleapp_1productD4.7\project\simple_app\templates\flatpages" />
+      <recent name="C:\Users\elect\PycharmProjects\django\pythonProject_simpleapp_1productD4.7\project\simple_app\templates" />
+      <recent name="C:\Users\elect\PycharmProjects\django\pythonProject_simpleapp\project\simple_app" />
       <recent name="C:\Users\elect\PycharmProjects\django\pythonProject_simpleapp\project\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\elect\PycharmProjects\django\pythonProject_simpleapp\project\simple_app\templatetags" />
     </key>
   </component>
   <component name="RunManager">
@@ -73,6 +160,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -86,7 +174,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18968.29" />
+        <option value="bundled-python-sdk-f5635417b835-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18968.29" />
       </set>
     </attachedChunks>
   </component>
@@ -98,6 +187,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721825908948</updated>
+      <workItem from="1723014454464" duration="4014000" />
+      <workItem from="1723018675608" duration="6737000" />
+      <workItem from="1723034044289" duration="439000" />
+      <workItem from="1723101649783" duration="1045000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -107,12 +200,35 @@
       <option name="project" value="LOCAL" />
       <updated>1721836684737</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="doesn't work 127.0.0.1">
+      <option name="closed" value="true" />
+      <created>1723102507816</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723102507816</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="doesn't work 127.0.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="doesn't work 127.0.0.1" />
   </component>
 </project>

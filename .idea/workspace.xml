@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59d7d877-a976-4b66-a638-2d7baf199eab" name="Changes" comment="doesn't work 127.0.0.1" />
+    <list default="true" id="59d7d877-a976-4b66-a638-2d7baf199eab" name="Changes" comment="doesn't work 127.0.0.1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +121,7 @@
       <workItem from="1723018675608" duration="6737000" />
       <workItem from="1723034044289" duration="439000" />
       <workItem from="1723101649783" duration="1045000" />
-      <workItem from="1723102710319" duration="431000" />
+      <workItem from="1723102710319" duration="1375000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -145,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723102804536</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="doesn't work 127.0.0.1">
+      <option name="closed" value="true" />
+      <created>1723103334960</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723103334960</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
